@@ -1,2 +1,3 @@
 hello i have started learning git
-this is a feature branch
+
+i am trying to learn git
